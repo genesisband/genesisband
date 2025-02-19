@@ -1,4 +1,4 @@
-## Hi
+## hello
 
 🎓 My name is William! My pronouns are he/him. I am currently majoring in Computer Science and the combined Math + Philosophy major at Yale. 
 
